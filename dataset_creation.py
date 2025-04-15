@@ -7,9 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
-
-# Load GROQ API Key from env variable (set it before running)
+# Load GROQ API Key from env variable 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama-3.1-8b-instant"  # Or any GROQ-supported model
