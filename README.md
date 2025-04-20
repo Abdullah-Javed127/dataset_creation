@@ -1,4 +1,4 @@
-Hey, this is for my FYP(Final Year Project). Using Groq api, i've curated a dataset that's important for training a distilled-gpt2 model. 
+Hey, I created this to assist myself in a Project that I was working on. Using Groq api, I curated a dataset that's important for training a model.
 To run this on your own:
 
 -Change the prompt to your need.
